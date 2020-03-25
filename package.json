@@ -1,12 +1,9 @@
 {
-    "name": "ProjTest",
-    "description": "Proj",
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
-    "node-red": {
-        "settings": {
-            "flowFile": "flow.json",
-            "credentialsFile": "flow_cred.json"
-        }
+    "private": true,
+    "dependencies": {
+        "node-red-dashboard": "~2.19.4"
     }
 }
