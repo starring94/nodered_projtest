@@ -356,7 +356,7 @@
         "height":0,
         "passthru":true,
         "topic":"msg.topic",
-        "x":460,
+        "x":560,
         "y":500,
         "wires":[
             [
