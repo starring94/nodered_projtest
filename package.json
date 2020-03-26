@@ -5,5 +5,11 @@
     "private": true,
     "dependencies": {
         "node-red-dashboard": "~2.19.4"
+    },
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
     }
 }
